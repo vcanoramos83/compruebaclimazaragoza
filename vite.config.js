@@ -2,5 +2,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/climazaragoza/", // El nombre del repositorio en GitHub
+  base: "/compruebaclimazaragoza/", // El nombre del repositorio en GitHub
 });
